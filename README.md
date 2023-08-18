@@ -88,14 +88,11 @@ ai_brain.predict(X_n1_1)
 ```
 ## Dataset Information
 
-Include screenshot of the dataset
 
 <img width="206" alt="image" src="https://github.com/Nagajyothichinta/basic-nn-model/assets/94191344/7d583125-408c-4747-afcb-b2ed31ac29d0">
 
 
 ## OUTPUT
-
-### Training Loss Vs Iteration Plot
 
 Include your plot here
 
@@ -104,14 +101,10 @@ Include your plot here
 
 ### Test Data Root Mean Squared Error
 
-Find the test data root mean squared error
-
 <img width="410" alt="image" src="https://github.com/Nagajyothichinta/basic-nn-model/assets/94191344/fdff8d7f-65d5-4648-963f-ab3a9e9b80e2">
 
 
 ### New Sample Data Prediction
-
-Include your sample input and output here
 
 <img width="344" alt="image" src="https://github.com/Nagajyothichinta/basic-nn-model/assets/94191344/38cbb6a6-7224-41bd-8863-799479da9e35">
 
